@@ -36,6 +36,14 @@ By the end of the program, I had:
 - Delivered a research-backed AI presentation and dashboard
 
 ---
+## 📘 Notebooks Summary
+
+| Module         | Notebook                     | Description                               |
+|----------------|------------------------------|-------------------------------------------|
+| P2.S3.4         | pandas_data_cleaning_movies.ipynb | Data cleaning with Pandas on telco churn data |
+| P2.S3.6         | numpy_basics.ipynb           | NumPy array creation, operations, and reshaping |
+
+---
 
 ## 🔗 Connect
 This project is part of my tech career journey.  
