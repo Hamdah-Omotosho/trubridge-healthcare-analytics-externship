@@ -39,4 +39,4 @@ By the end of the program, I had:
 
 ## 🔗 Connect
 This project is part of my tech career journey.  
-➡️ [LinkedIn](https://www.linkedin.com/in/hamdah-omotosho101)/ | [Notion](https://www.notion.so/Trubridge-Healthcare-Analytics-Externship-Spring-2025-1f5cd27634238039a3a5d57cf7543918?pvs=4)
+➡️ [LinkedIn](https://www.linkedin.com/in/hamdah-omotosho101) | [Notion](https://www.notion.so/Trubridge-Healthcare-Analytics-Externship-Spring-2025-1f5cd27634238039a3a5d57cf7543918?pvs=4)
