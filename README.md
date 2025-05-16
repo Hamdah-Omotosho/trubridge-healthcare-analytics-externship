@@ -36,12 +36,17 @@ By the end of the program, I had:
 - Delivered a research-backed AI presentation and dashboard
 
 ---
-## 📘 Notebooks Summary
 
-| Module         | Notebook                     | Description                               |
-|----------------|------------------------------|-------------------------------------------|
-| P2.S3.4         | pandas_data_cleaning_movies.ipynb | Data cleaning with Pandas on telco churn data |
-| P2.S3.6         | numpy_basics.ipynb           | NumPy array creation, operations, and reshaping |
+## 📘 Notebooks Summary – TruBridge Externship
+
+| Module        | Notebook                          | Description                                                             |
+|---------------|-----------------------------------|-------------------------------------------------------------------------|
+| `P2.S3.4`     | `pandas_data_cleaning_movies.ipynb` | Cleaned Telco churn dataset using Pandas (missing values, types, etc.) |
+|               | `telco_churn_cleaned.csv`          | Exported CSV after cleaning with Pandas                                |
+| `P2.S3.6`     | `numpy_basics.ipynb`               | Practiced array creation, reshaping, broadcasting, and NumPy functions |
+| `P2.S3.7`     | `numpy_data_cleaning.ipynb`        | Cleaned healthcare data using NumPy (missing, outliers, normalization) |
+|               | `cleaned_data.csv`                 | Final processed CSV using NumPy                                         |
+
 
 ---
 
