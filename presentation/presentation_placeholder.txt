@@ -1,0 +1,2 @@
+Presentation deck in progress
+final version will include research question, EDA results, AI visualizations, and recommendations.
