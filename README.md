@@ -47,6 +47,7 @@ By the end of the program, I had:
 | `P2.S3.7`     | `numpy_data_cleaning.ipynb`        | Cleaned healthcare data using NumPy (missing, outliers, normalization) |
 |               | `cleaned_data.csv`                 | Final processed CSV using NumPy                                         |
 | `P2.S3.9`     | `missing_values_handling.ipynb`     | Explored missing value types (MCAR, MAR, MNAR), visualized gaps, and handled missing data using dropna(), mean/median imputation, and forward fill |
+| `P2.S3.11`    | `data_normalization_transformation.ipynb` | Scaled infection rates and hospital stay data using Min-Max, and applied log transformation to handle outliers in expenses |
 
 ---
 
