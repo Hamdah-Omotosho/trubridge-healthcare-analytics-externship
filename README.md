@@ -39,6 +39,13 @@ By the end of the program, I had:
 
 ## 📘 Notebooks Summary – TruBridge Externship
 
+## 📊 Statistical Analysis
+
+### T-Test: Marvel vs DC Superhero Height Comparison
+- **File:** `statistics/P2_S3_2_Marvel_vs_DC_Height_TTest.ipynb`
+- **Summary:** This notebook compares the average height of Marvel and DC superheroes using an independent samples T-test. Result shows whether there's a statistically significant difference in height between the two groups.
+
+
 | Module        | Notebook                          | Description                                                             |
 |---------------|-----------------------------------|-------------------------------------------------------------------------|
 | `P2.S3.4`     | `pandas_data_cleaning_movies.ipynb` | Cleaned Telco churn dataset using Pandas (missing values, types, etc.) |
