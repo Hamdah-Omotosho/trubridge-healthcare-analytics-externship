@@ -49,7 +49,7 @@ By the end of the program, I had:
 | `P2.S3.9`     | `missing_values_handling.ipynb`     | Explored missing value types (MCAR, MAR, MNAR), visualized gaps, and handled missing data using dropna(), mean/median imputation, and forward fill |
 | `P2.S3.11`    | `data_normalization_transformation.ipynb` | Scaled infection rates and hospital stay data using Min-Max, and applied log transformation to handle outliers in expenses |
 | `P2.S3.13`    | `data_quality_check.ipynb`          | Validated final dataset: checked for missing values, duplicates, type mismatches, outliers, and inconsistent formatting using a custom audit function |
-
+| `P2.S2.2` | `statistical_analysis_superheroes.ipynb` | Applied full statistical workflow including descriptive stats, hypothesis tests, probability, correlation, and logistic regression on superhero dataset |
 ---
 
 ## 🔗 Connect
