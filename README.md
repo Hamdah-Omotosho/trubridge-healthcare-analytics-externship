@@ -60,6 +60,23 @@ By the end of the program, I had:
 | P2.S4.1 | eda_superheroes.ipynb | Performed Exploratory Data Analysis (EDA) on superhero dataset — visualized distributions, detected outliers, explored variable relationships, and built correlation heatmaps. |
 
 ---
+## EDA & Statistical Insights
+### Research Question:
+Do individuals with high BMI and high blood pressure have a higher risk of diabetes?
+
+### Dataset:
+CDC Diabetes Health Indicators – BRFSS 2015
+
+### Methods:
+- Data filtering by BMI and HighBP
+- BMI categorized into groups (Underweight, Normal, Overweight, Obese)
+- Grouped analysis of diabetes classes
+- Bar plot visualization using Seaborn
+
+### Key Finding:
+Obese individuals with high blood pressure showed the highest rate of diabetes, confirming the compounding effect of both risk factors.
+
+
 
 ## 🔗 Connect
 This project is part of my tech career journey.  
