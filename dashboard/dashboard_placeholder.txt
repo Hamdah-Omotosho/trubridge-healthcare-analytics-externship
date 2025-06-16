@@ -1,1 +1,13 @@
-Dashboard is currently being built using Claude. Will visualize insights from cleaned data using AI-generated charts and metrics.
+# Diabetes Risk Factors Dashboard – Summary
+
+This dashboard was built using Claude (Anthropic) to visualize diabetes risk based on behavioral and socioeconomic indicators using CDC BRFSS data.
+
+### Key Sections:
+1. Final Recommendations
+2. Dataset Overview
+3. Behavioral Risk Factors (BMI, smoking, physical activity)
+4. Socioeconomic Trends (income, education)
+5. Access to Healthcare
+6. Diabetes Prevalence by Demographics
+
+🔗 [Link to Claude Dashboard Artifact](https://claude.ai/public/artifacts/c2642d14-5f2e-4a23-94bf-78888543a539)
