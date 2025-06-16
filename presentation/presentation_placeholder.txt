@@ -1,2 +1,9 @@
-Presentation deck in progress
-final version will include research question, EDA results, AI visualizations, and recommendations.
+# Presentation: The Role of BMI and Blood Pressure in Diabetes Risk
+
+**Slide 1:** Title Slide  
+**Slide 2:** Why This Research Matters  
+**Slide 3:** Research Question  
+**Slide 4:** Key Findings (BMI & BP vs Diabetes)  
+**Slide 5:** Visual Summary (Boxplot, Correlation)  
+**Slide 6:** Implications for Public Health  
+**Slide 7:** Final Recommendations
